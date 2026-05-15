@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ssl_parser.py — SSL/TLS Findings Parser
+ssl_parser.py — SSL/TLS Findings Parser from pentest_recon.sh
 Parses sslscan + sslyze output files and flags vulnerabilities
 against OWASP TLS Cheat Sheet best practices.
 
